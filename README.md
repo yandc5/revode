@@ -2,7 +2,7 @@
 
 git clone https://github.com/yandc5/revode
 
-cd Brayennn
+cd revode
 
 python Brayennn.py
 
